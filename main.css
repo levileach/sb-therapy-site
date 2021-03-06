@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Lato, sans-serif;
     text-align: center;
@@ -81,6 +85,9 @@ img {
     color: white;
     padding: 3%;
     border-radius: 5%;
+    width: 40%;
+    display: block;
+    margin: auto;
 }
 
 .email-button:hover {
