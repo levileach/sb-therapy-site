@@ -1,0 +1,48 @@
+body {
+    font-family: Lato, sans-serif;
+    text-align: center;
+}
+
+.nav-bar {
+    background-color: lightslategray;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.link-div {
+    text-align: right;
+    height: 100%;
+}
+
+.nav-element {
+    color: white;
+    display: inline-grid;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 1%;
+    text-align: center;
+}
+
+.nav-title {
+    color: white;
+    text-align: left;
+    margin-left: 2%;
+}
+
+.nav-element:hover {
+    background-color: white;
+    border-radius: 5%;
+    color: lightslategray;
+}
+
+.content-div {
+    background-color: red;
+}
+.test-div {
+    height: 3000px;
+    width: 50px;
+    background-color: black;
+}
