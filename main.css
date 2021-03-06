@@ -47,7 +47,7 @@ body {
 }
 
 .content-div {
-    width: 70%;
+    width: 80%;
     margin: 10px auto;
     border-bottom: 1px solid darkslategray;
     padding: 2%;
@@ -109,4 +109,19 @@ li {
 
 li:hover {
     color: darkslategray;
+}
+
+.getting-started-div {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.getting-started-div > div {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.justify {
+    text-align: justify;
 }
