@@ -2,6 +2,7 @@ body {
     font-family: Lato, sans-serif;
     text-align: center;
     scroll-behavior: smooth;
+    font-weight: lighter;
 }
 
 
@@ -26,6 +27,7 @@ body {
     margin-right: 2%;
     padding: 1%;
     text-align: center;
+    font-weight: lighter;
 }
 
 .nav-title {
@@ -35,13 +37,16 @@ body {
 }
 
 .nav-element:hover {
-    background-color: white;
+    background-color: darkslategray;
     border-radius: 5%;
-    color: lightslategray;
+    color: white;
 }
 
 .content-div {
-
+    width: 80%;
+    margin: 10px auto;
+    border-bottom: 1px solid darkslategray;
+    padding: 2%;
 }
 
 a {
@@ -49,8 +54,39 @@ a {
     text-decoration: inherit;
 }
 
-.test-div {
-    height: 3000px;
-    width: 50px;
-    background-color: black;
+img {
+    border-radius: 5%;
+    border: 2px solid lightslategray;
+    margin: auto;
+}
+
+.inline {
+    display: inline-grid;
+}
+
+
+.light-text {
+    font-weight: lighter;
+}
+
+
+.half-grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+.email-button {
+    background-color: lightslategray;
+    color: white;
+    padding: 3%;
+    border-radius: 5%;
+}
+
+.email-button:hover {
+    background-color: darkslategray;
+}
+
+.content-p {
+    text-align: justify;
 }
