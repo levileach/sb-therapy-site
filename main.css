@@ -63,8 +63,7 @@ ol {
 }
 
 img {
-    border-radius: 5%;
-    border: 2px solid lightslategray;
+    border-radius: 1%;
     margin: auto;
 }
 
@@ -124,4 +123,8 @@ li:hover {
 
 .justify {
     text-align: justify;
+}
+
+p {
+    line-height: 1.5;
 }
