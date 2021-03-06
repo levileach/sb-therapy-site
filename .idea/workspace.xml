@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c8fff0-a0b5-4d71-a3de-5c9bf473fe37" name="Default Changelist" comment="Changed section width">
+    <list default="true" id="e7c8fff0-a0b5-4d71-a3de-5c9bf473fe37" name="Default Changelist" comment="Fixed section linking">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615046441130</updated>
-      <workItem from="1615046442676" duration="11517000" />
+      <workItem from="1615046442676" duration="11596000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Page Links">
       <created>1615049507118</created>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615071092709</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fixed section linking">
+      <created>1615071444591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615071444591</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,7 @@
     <MESSAGE value="Updates" />
     <MESSAGE value="Added Headshot, adjusted some sections" />
     <MESSAGE value="Changed section width" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed section width" />
+    <MESSAGE value="Fixed section linking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed section linking" />
   </component>
 </project>
